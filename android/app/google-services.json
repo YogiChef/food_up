@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "669789685566",
+    "firebase_url": "https://food-up-5abbc-default-rtdb.firebaseio.com",
+    "project_id": "food-up-5abbc",
+    "storage_bucket": "food-up-5abbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669789685566:android:82b2d2db0079e1c7340e6f",
+        "android_client_info": {
+          "package_name": "com.devup.move_on"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGRQJSnJtBWsPt0SRNwIAG6u0SDeF5UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
